@@ -9,7 +9,7 @@ require 'rake/rdoctask'
 ########### Common package && release
 
 RUBY_FORGE_PROJECT = "remarkable"
-PROJECT_URL        = "http://github.com/carlosbrando/remarkable"
+PROJECT_URL        = "http://github.com/remarkable/remarkable"
 
 GEM_VERSION        = Remarkable::VERSION
 PACKAGE_DIR        = File.join(File.dirname(__FILE__), 'pkg')
