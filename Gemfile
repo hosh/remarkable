@@ -1,8 +1,8 @@
 source :gemcutter
 
-gem 'activemodel', '3.0.10'
-gem 'activerecord', '3.0.10'
-gem 'activesupport', '3.0.10'
+gem 'activemodel', '>=3.0.10'
+gem 'activerecord', '>=3.0.10'
+gem 'activesupport', '>=3.0.10'
 
 group :development do
   gem 'rake', '0.8.7'
