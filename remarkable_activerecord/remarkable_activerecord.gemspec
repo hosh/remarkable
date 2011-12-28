@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
     "lib/remarkable/active_record/matchers/allow_mass_assignment_of_matcher.rb",
     "lib/remarkable/active_record/matchers/association_matcher.rb",
     "lib/remarkable/active_record/matchers/have_column_matcher.rb",
-    "lib/remarkable/active_record/matchers/have_default_scope_matcher.rb",
+    "lib/remarkable/active_record/matchers/have_scope_matcher.rb",
     "lib/remarkable/active_record/matchers/have_index_matcher.rb",
     "lib/remarkable/active_record/matchers/have_readonly_attributes_matcher.rb",
     "lib/remarkable/active_record/matchers/have_scope_matcher.rb",
